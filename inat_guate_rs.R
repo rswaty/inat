@@ -18,3 +18,5 @@ pinus <- get_inat_obs(taxon_name  = "Pinus",
 
 
 plot(pinus$longitude, pinus$latitude)
+
+# next try quercus
